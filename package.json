@@ -1,0 +1,21 @@
+{
+  "name": "monad-tools-testnet",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.20.1",
+    "@solana/web3.js": "^1.98.0",
+    "axios": "^1.7.9",
+    "chalk": "^5.4.1",
+    "dotenv": "^16.4.7",
+    "web3": "^4.16.0"
+  }
+}
