@@ -43,3 +43,31 @@ MINT_PRICE_4=0.01
 # Preço do GAS em gwei
 GAS_PRICE=52
 ```
+
+## 🚀 Como Usar
+- Instale as dependências
+```
+npm install
+
+```
+-  Execute os scripts
+
+
+
+Loop de stake e unstake:
+``` node monadGmon.js```
+
+Loop de mint de NFTs:
+```node monadMintLoop.js```
+
+Verificação de RPCs:
+```node pingRPC.js```
+
+
+## 📌 Observações
+Este projeto é voltado para uso na testnet da Monad.
+
+Certifique-se de configurar corretamente o ``.env`` antes de executar qualquer script.
+
+A responsabilidade pelo uso dos scripts é do usuário.
+
